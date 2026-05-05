@@ -43,8 +43,7 @@ Cette approche constitue une **variante du Jeu de la Vie**, permettant d’étud
 
 ```text id="gol_struct_final"
 .
-├── src/
-│   └── main.c
+├── main.c
 ├── tests/
 │   ├── F0.dat
 │   ├── F1.dat
